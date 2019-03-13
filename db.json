@@ -1,0 +1,83 @@
+{
+
+   "DTOHeader":    {
+
+      "CodigoRetorno": "Correcto",
+
+      "DescRetorno": ""
+
+   },
+
+   "ListaAlumnosCibertec":    [
+
+            {
+
+         "Nombres": "Veronica Ines",
+
+         "Apellidos": "Pardo Gutierrez",
+
+         "CorreoAlumno": "i201320914@cibertec.edu.pe\"",
+
+         "CodAlumno": "201320914",
+
+         "TelefonoMovil": "999888777",
+
+         "CorreoPersonal": "correo1@gmail.com",
+
+         "DesModalidadEstActual": "Pregrado",
+
+         "CodModalidadEstActual": "AC",
+
+         "DesSede": "Miraflores",
+
+         "CodSede": "R",
+
+         "NomEscuela": "Elvira Garcia",
+
+         "CodEscuela": "EG",
+
+         "NomCarrera": "Ingenieria de Sistemas",
+
+         "CodCarrera": "IS",
+
+         "EstadoAlumno": "1"
+
+      },
+
+            {
+
+         "Nombres": "Juan Alberto",
+
+         "Apellidos": "Cardenas Valdez",
+
+         "CorreoAlumno": "i201520914@cibertec.edu.pe\"",
+
+         "CodAlumno": "201520914",
+
+         "TelefonoMovil": "909888777",
+
+         "CorreoPersonal": "correo2@gmail.com",
+
+         "DesModalidadEstActual": "Postgrado",
+
+         "CodModalidadEstActual": "UC",
+
+         "DesSede": "San Borja",
+
+         "CodSede": "R",
+
+         "NomEscuela": "Luz Casanova",
+
+         "CodEscuela": "EG",
+
+        "NomCarrera": "Ciencias de la comunicación",
+
+         "CodCarrera": "IS",
+
+         "EstadoAlumno": "2"
+
+      }
+
+   ]
+
+}
